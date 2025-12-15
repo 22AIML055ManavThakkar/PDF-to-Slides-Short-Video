@@ -18,7 +18,6 @@ PDF → Text Extraction → LLM-based Sectioning & Summarization → Slide Gener
 
 - Python 3.9+
 - FFmpeg (for video rendering)
-- Gemini API key (free tier)
 
 ---
 
